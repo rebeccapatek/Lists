@@ -1,0 +1,10 @@
+/Users/rebeccapatek/workspace/csharp/exercises/lists/obj/Debug/netcoreapp3.1/lists.csprojAssemblyReference.cache
+/Users/rebeccapatek/workspace/csharp/exercises/lists/obj/Debug/netcoreapp3.1/lists.AssemblyInfoInputs.cache
+/Users/rebeccapatek/workspace/csharp/exercises/lists/obj/Debug/netcoreapp3.1/lists.AssemblyInfo.cs
+/Users/rebeccapatek/workspace/csharp/exercises/lists/bin/Debug/netcoreapp3.1/lists.deps.json
+/Users/rebeccapatek/workspace/csharp/exercises/lists/bin/Debug/netcoreapp3.1/lists.runtimeconfig.json
+/Users/rebeccapatek/workspace/csharp/exercises/lists/bin/Debug/netcoreapp3.1/lists.runtimeconfig.dev.json
+/Users/rebeccapatek/workspace/csharp/exercises/lists/bin/Debug/netcoreapp3.1/lists.dll
+/Users/rebeccapatek/workspace/csharp/exercises/lists/bin/Debug/netcoreapp3.1/lists.pdb
+/Users/rebeccapatek/workspace/csharp/exercises/lists/obj/Debug/netcoreapp3.1/lists.dll
+/Users/rebeccapatek/workspace/csharp/exercises/lists/obj/Debug/netcoreapp3.1/lists.pdb
